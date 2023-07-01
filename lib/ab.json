@@ -1,0 +1,41 @@
+{
+    "category": "physics",
+    "number": 25,
+    "timer": "60minutes",
+     
+    "questions": [
+        {
+            "q1": "A force F a applied on the upper pulley as shown in the figure if F =3t",
+            "imageUrl": "image",
+            "options": {
+                "a": "1 sec",
+                "b": "1.66 sec",
+                "c": "2 sec",
+                "d": "None of these"
+            },
+            "ans": "a"
+        },
+        {
+            "q2": "A force F a applied on the upper pulley as shown in the figure if F =3t",
+            "imageUrl": "image",
+            "options": {
+                "a": "1 sec",
+                "b": "1.66 sec",
+                "c": "2 sec",
+                "d": "None of these"
+            },
+            "ans": "b"
+        },
+        {
+            "q1": "A force F a applied on the upper pulley as shown in the figure if F =3t",
+            "imageUrl": "image",
+            "options": {
+                "a": "1 sec",
+                "b": "1.66 sec",
+                "c": "2 sec",
+                "d": "None of these"
+            },
+            "ans": "b"
+        }
+    ]
+}
